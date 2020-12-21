@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\bin\Debug\HeadOffice.dll
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\bin\Debug\HeadOffice.pdb
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\bin\Debug\HeadOffice.tlb
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\obj\Debug\HeadOffice.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\obj\Debug\HeadOffice.csproj.CopyComplete
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\obj\Debug\HeadOffice.dll
+C:\Users\PC\source\repos\DatabaseComServer\HeadOffice\obj\Debug\HeadOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\bin\Debug\HeadOffice.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\bin\Debug\HeadOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\obj\Debug\HeadOffice.csprojAssemblyReference.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\obj\Debug\HeadOffice.csproj.CoreCompileInputs.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\obj\Debug\HeadOffice.csproj.CopyComplete
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\obj\Debug\HeadOffice.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\obj\Debug\HeadOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\HeadOffice\bin\Debug\HeadOffice.tlb

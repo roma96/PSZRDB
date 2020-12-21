@@ -1,0 +1,27 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\HeadOffice.DatabaseMananger]
+@="HeadOffice.DatabaseMananger"
+
+[HKEY_CLASSES_ROOT\HeadOffice.DatabaseMananger\CLSID]
+@="{3D2825AA-0A9E-3F32-A954-B781558A25DE}"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D2825AA-0A9E-3F32-A954-B781558A25DE}]
+@="HeadOffice.DatabaseMananger"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D2825AA-0A9E-3F32-A954-B781558A25DE}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="HeadOffice.DatabaseMananger"
+"Assembly"="Lab2.HeadOffice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D2825AA-0A9E-3F32-A954-B781558A25DE}\InprocServer32\1.0.0.0]
+"Class"="HeadOffice.DatabaseMananger"
+"Assembly"="Lab2.HeadOffice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D2825AA-0A9E-3F32-A954-B781558A25DE}\ProgId]
+@="HeadOffice.DatabaseMananger"
+
+[HKEY_CLASSES_ROOT\CLSID\{3D2825AA-0A9E-3F32-A954-B781558A25DE}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]

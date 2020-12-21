@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\bin\Debug\BranchOffice.dll
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\bin\Debug\BranchOffice.pdb
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\bin\Debug\BranchOffice.tlb
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\obj\Debug\BranchOffice.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\obj\Debug\BranchOffice.csproj.CopyComplete
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\obj\Debug\BranchOffice.dll
+C:\Users\PC\source\repos\DatabaseComServer\BranchOffice\obj\Debug\BranchOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\bin\Debug\BranchOffice.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\bin\Debug\BranchOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\obj\Debug\BranchOffice.csprojAssemblyReference.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\obj\Debug\BranchOffice.csproj.CoreCompileInputs.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\obj\Debug\BranchOffice.csproj.CopyComplete
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\obj\Debug\BranchOffice.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\obj\Debug\BranchOffice.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\BranchOffice\bin\Debug\BranchOffice.tlb

@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\DatabaseComServer\Lab2ComInterfaces\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\PC\source\repos\DatabaseComServer\Lab2ComInterfaces\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\PC\source\repos\DatabaseComServer\Lab2ComInterfaces\obj\Debug\Lab2ComServerIntefaces.dll
+C:\Users\PC\source\repos\DatabaseComServer\Lab2ComInterfaces\obj\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\Lab2ComInterfaces\bin\Debug\Lab2ComServerIntefaces.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\Lab2ComInterfaces\bin\Debug\Lab2ComServerIntefaces.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\Lab2ComInterfaces\obj\Debug\Lab2ComInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\Lab2ComInterfaces\obj\Debug\Lab2ComServerIntefaces.dll
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\Lab2ComInterfaces\obj\Debug\Lab2ComServerIntefaces.pdb

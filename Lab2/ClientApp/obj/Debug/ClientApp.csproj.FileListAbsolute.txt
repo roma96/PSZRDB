@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\PC\source\repos\DatabaseComServer\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Ден\Downloads\Telegram Desktop\DesignDB-\DesignDB\Lab2\Lab2_Com_code\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
